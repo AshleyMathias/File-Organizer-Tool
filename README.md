@@ -55,7 +55,31 @@
 
 ### 🧪 Installation
 
-```bash
+``bash
 # Clone this repo or download ZIP
 # Then install dependencies
 pip install -r requirements.txt
+
+### ▶️ Run the App
+
+main.py
+
+### 📁 Folder Structure
+
+📁 Downloads/
+├── Images/
+├── Documents/
+├── Videos/
+├── Music/
+├── Archives/
+└── Others/
+
+### 📄 License
+
+This project is open-source under the MIT License. Feel free to use and modify it.
+
+### 🙋‍♀️ About the Developer
+
+Ashley Mathias
+🔗 LinkedIn
+💻 Python Enthusiast | Automation Builder | Learning by Doing
