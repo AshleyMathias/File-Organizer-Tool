@@ -79,9 +79,9 @@ python main.py
 ---
 
 ### 🙋‍♀️ About the Developer
-Ashley Mathias
-Python Developer & AI Enthusiast
-Linkedin: ashleymathias10, Github: Ashley Mathias
+- Ashley Mathias
+- Python Developer & AI Enthusiast
+- Linkedin: ashleymathias10, Github: Ashley Mathias
 
 ---
 
