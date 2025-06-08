@@ -69,18 +69,8 @@ main.py
 
 ### 🧪 Installation
 
-```bash
+(```bash
 # Clone this repo or download ZIP
 # Then install dependencies
 pip install -r requirements.txt
-
-### 📄 License
-
-This project is open-source under the MIT License. Feel free to use and modify it.
-
-### 🙋‍♀️ About the Developer
-
-Ashley Mathias
-
-🔗 LinkedIn: ashleymathias10
-💻 Python Enthusiast | Automation Builder | Learning by Doing
+)
