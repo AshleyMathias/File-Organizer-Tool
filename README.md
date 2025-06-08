@@ -56,8 +56,8 @@
 ### 🧪 Installation
 
 ``bash
-# Clone this repo or download ZIP
-# Then install dependencies
+Clone this repo or download ZIP
+Then install dependencies
 pip install -r requirements.txt
 
 ### ▶️ Run the App
