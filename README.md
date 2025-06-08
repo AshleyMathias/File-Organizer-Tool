@@ -46,6 +46,17 @@
 
 ---
 
+## 📂 Project Structure
+📁 Downloads/
+├── Images/
+├── Documents/
+├── Videos/
+├── Music/
+├── Archives/
+└── Others/
+
+---
+
 ## ⚙️ Setup Instructions
 
 > ✅ Requires Python 3.8 or higher
@@ -65,25 +76,14 @@ pip install -r Requirments.txt
 ### Step 3: Run the Application
 python main.py
 
-### 📁 Folder Structure
-
-📁 Downloads/
-├── Images/
-├── Documents/
-├── Videos/
-├── Music/
-├── Archives/
-└── Others/
-
-### 📄 License
-
-This project is open-source under the MIT License. Feel free to use and modify it.
-
-### 🙋‍♀️ About the Developer
-
 Ashley Mathias
+Python Developer & AI Enthusiast
+Linkedin: ashleymathias10, Github: Ashley Mathias
 
-🔗 LinkedIn: ashleymathias10
-💻 Python Enthusiast | Automation Builder | Learning by Doing
+---
+
+<p align="center">
+  Built with 💻 and ☕ by <strong>Ashley Mathias</strong>
+</p>
 
 
