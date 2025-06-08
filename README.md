@@ -76,6 +76,9 @@ pip install -r Requirments.txt
 ### Step 3: Run the Application
 python main.py
 
+---
+
+###🙋‍♀️ About the Developer
 Ashley Mathias
 Python Developer & AI Enthusiast
 Linkedin: ashleymathias10, Github: Ashley Mathias
