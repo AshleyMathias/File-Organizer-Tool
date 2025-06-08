@@ -53,13 +53,6 @@
 - Python 3.10 or above
 - Tkinter (usually built-in)
 
-### 🧪 Installation
-
-``bash
-Clone this repo or download ZIP
-Then install dependencies
-pip install -r requirements.txt
-
 ### ▶️ Run the App
 
 main.py
@@ -83,3 +76,11 @@ This project is open-source under the MIT License. Feel free to use and modify i
 Ashley Mathias
 🔗 LinkedIn
 💻 Python Enthusiast | Automation Builder | Learning by Doing
+
+
+### 🧪 Installation
+
+```bash
+# Clone this repo or download ZIP
+# Then install dependencies
+pip install -r requirements.txt
