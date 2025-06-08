@@ -46,16 +46,24 @@
 
 ---
 
-## 🚀 Getting Started
+## ⚙️ Setup Instructions
 
-### 📦 Requirements
+> ✅ Requires Python 3.8 or higher
 
-- Python 3.10 or above
-- Tkinter (usually built-in)
+### Step 1: Clone or Download the Project
 
-### ▶️ Run the App
+You can manually download this project as a ZIP file and extract it.
 
-main.py
+Or, if using Git:
+bash:
+git clone https://github.com/AshleyMathias/File-Organizer-Tool.git
+cd File-Organizer-Tool
+
+### Step 2: Install Dependencies
+pip install -r Requirments.txt
+
+### Step 3: Run the Application
+python main.py
 
 ### 📁 Folder Structure
 
