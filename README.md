@@ -67,6 +67,13 @@ main.py
 ├── Archives/
 └── Others/
 
+### 🧪 Installation
+
+```bash
+# Clone this repo or download ZIP
+# Then install dependencies
+pip install -r requirements.txt
+
 ### 📄 License
 
 This project is open-source under the MIT License. Feel free to use and modify it.
@@ -74,13 +81,6 @@ This project is open-source under the MIT License. Feel free to use and modify i
 ### 🙋‍♀️ About the Developer
 
 Ashley Mathias
-🔗 LinkedIn
+
+🔗 LinkedIn: ashleymathias10
 💻 Python Enthusiast | Automation Builder | Learning by Doing
-
-
-### 🧪 Installation
-
-```bash
-# Clone this repo or download ZIP
-# Then install dependencies
-pip install -r requirements.txt
